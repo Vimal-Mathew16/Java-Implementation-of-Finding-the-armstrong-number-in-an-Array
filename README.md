@@ -1,1 +1,1 @@
-# Java-Implementation-of-Finding-the-armstrong-number-in-an-Array
+# Java-Implementation-To-Finding-the-armstrong-number-in-an-Array
